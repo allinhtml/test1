@@ -56,7 +56,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1481#1482#0" expanded="false" />
+                <element signature="e#1562#1563#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,7 +71,12 @@
             <state relative-caret-position="2125">
               <caret line="132" column="34" selection-start-line="132" selection-start-column="34" selection-end-line="132" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1492#1493#0" expanded="false" />
+                <element signature="e#1573#1574#0" expanded="false" />
+                <element signature="e#3103#3104#0" expanded="false" />
+                <element signature="e#3131#3132#0" expanded="false" />
+                <element signature="e#3177#3178#0" expanded="false" />
+                <element signature="e#3218#3219#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -89,21 +98,22 @@
             <state relative-caret-position="119">
               <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding>
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="false" />
+                <element signature="e#748#749#0" expanded="false" />
+                <element signature="e#968#969#0" expanded="false" />
+                <element signature="e#992#993#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedStack.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LinkedStack.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DS/StackExample/LinkedStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
+            <state relative-caret-position="151">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding>
+                <element signature="e#234#242#0" expanded="true" />
                 <element signature="class#LinkedStackIterator#0;class#LinkedStack#0" expanded="false" />
                 <element signature="method#push#0;class#LinkedStack#0" expanded="false" />
                 <element signature="method#pop#0;class#LinkedStack#0" expanded="false" />
@@ -113,11 +123,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StackExampleForTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StackExampleForTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DS/StackExample/StackExampleForTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="369">
               <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BookMaterial/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,17 +148,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/CP/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1343">
-              <caret line="91" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="91" selection-end-column="5" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,7 +209,6 @@
         <option value="$PROJECT_DIR$/src/DS/StackExample/Test1.java" />
         <option value="$PROJECT_DIR$/src/DS/QueueExanple/LinkedQueueOfStrings.java" />
         <option value="$PROJECT_DIR$/src/DS/StackExample/LinkedStackOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/DS/StackExample/LinkedStack.java" />
         <option value="$PROJECT_DIR$/src/Sorting/Shell.java" />
         <option value="$PROJECT_DIR$/src/Sorting/Testing.java" />
         <option value="$PROJECT_DIR$/src/Sorting/MergeImproved.java" />
@@ -212,6 +223,7 @@
         <option value="$PROJECT_DIR$/src/BookMaterial/Accumulator.java" />
         <option value="$PROJECT_DIR$/src/com/company/TestClass.java" />
         <option value="$PROJECT_DIR$/src/DS/StackExample/StackExampleForTest.java" />
+        <option value="$PROJECT_DIR$/src/DS/StackExample/LinkedStack.java" />
       </list>
     </option>
   </component>
@@ -343,6 +355,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookMaterial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -927,7 +957,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32394367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21166892" sideWeight="0.49266246" order="5" side_tool="false" content_ui="combo" x="178" y="296" width="286" height="1048" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2109905" sideWeight="0.49266246" order="5" side_tool="false" content_ui="combo" x="178" y="296" width="286" height="1048" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25042662" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1175,13 +1205,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BookMaterial/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BookMaterial/MergeBU.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1256,6 +1279,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3162">
           <caret line="220" column="41" selection-start-line="220" selection-start-column="41" selection-end-line="220" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1270,6 +1296,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3179">
           <caret line="212" column="1" selection-start-line="212" selection-start-column="1" selection-end-line="212" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1277,7 +1304,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="91" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="91" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2451#2452#0" expanded="false" />
+            <element signature="e#2506#2507#0" expanded="false" />
+            <element signature="e#2548#2549#0" expanded="false" />
+            <element signature="e#2592#2593#0" expanded="false" />
+            <element signature="e#2627#2628#0" expanded="false" />
+            <element signature="e#2675#2676#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1285,7 +1320,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1301,7 +1338,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1481#1482#0" expanded="false" />
+            <element signature="e#1562#1563#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1318,7 +1359,12 @@
         <state relative-caret-position="2125">
           <caret line="132" column="34" selection-start-line="132" selection-start-column="34" selection-end-line="132" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="false" />
+            <element signature="e#1573#1574#0" expanded="false" />
+            <element signature="e#3103#3104#0" expanded="false" />
+            <element signature="e#3131#3132#0" expanded="false" />
+            <element signature="e#3177#3178#0" expanded="false" />
+            <element signature="e#3218#3219#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1336,23 +1382,10 @@
         <state relative-caret-position="119">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DS/StackExample/LinkedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
-          <folding>
-            <element signature="class#LinkedStackIterator#0;class#LinkedStack#0" expanded="false" />
-            <element signature="method#push#0;class#LinkedStack#0" expanded="false" />
-            <element signature="method#pop#0;class#LinkedStack#0" expanded="false" />
-            <element signature="method#size#0;class#LinkedStack#0" expanded="false" />
+            <element signature="e#715#716#0" expanded="false" />
+            <element signature="e#748#749#0" expanded="false" />
+            <element signature="e#968#969#0" expanded="false" />
+            <element signature="e#992#993#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1362,6 +1395,28 @@
         <state relative-caret-position="369">
           <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BookMaterial/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS/StackExample/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <element signature="e#234#242#0" expanded="true" />
+            <element signature="class#LinkedStackIterator#0;class#LinkedStack#0" expanded="false" />
+            <element signature="method#push#0;class#LinkedStack#0" expanded="false" />
+            <element signature="method#pop#0;class#LinkedStack#0" expanded="false" />
+            <element signature="method#size#0;class#LinkedStack#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

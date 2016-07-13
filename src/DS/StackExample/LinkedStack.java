@@ -7,7 +7,7 @@ public class LinkedStack<Item> implements Iterable<Item> {
 
     public static void main(String[] a) {
         LinkedStack<String> s = new LinkedStack<String>();
-        s.push("Parth");
+        
         //System.out.println(s.size());
         //System.out.println(s.size());
         s.push("Vikani");
